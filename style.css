@@ -49,11 +49,11 @@ body {
 }
 
 .label {
-    margin-right: 10px;
+    margin-right: 15px;
     display: block ;
 }
 input[type="radio"] {
-    margin-right: 5px; 
+    margin-right: 7px; 
 }
 
 hr {
